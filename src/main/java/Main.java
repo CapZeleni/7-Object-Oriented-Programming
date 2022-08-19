@@ -7,7 +7,7 @@ public class Main {
         post.surname = "КрузенштернЧеловекИПароход";
         post.phone = "2225332222";
         post.passport = "0000/123456";
-        post.subscription = "thrue";
+        post.subscription = true;
         post.birthday = new FormDate();
         post.birthday.day = 13;
         post.birthday.month = 11;
